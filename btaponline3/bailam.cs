@@ -8,27 +8,6 @@ namespace ExercisesCollection
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            /* 1.Write a C# Sharp program that takes two numbers as input and performs an operation (+,-,*,x,/) on them and displays the result of that operation 
-             2.Write a C# Sharp program to display certain values of the function x = y2 + 2y + 1 (using integer numbers for y, ranging from -5 to +5).
-             3.Write a C# Sharp program that takes distance and time (hours, minutes, seconds) as input and displays speed in kilometers per hour (km/h) and miles per hour (miles/h).
-             */
-            //1.Write a C# Sharp program that takes two numbers as input and performs an operation (+,-,*,x,/) on them and displays the result of that operation.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
             // --- BÀI 1: MÁY TÍNH CƠ BẢN ---
             Console.WriteLine("BÀI 1: MÁY TÍNH CƠ BẢN");
